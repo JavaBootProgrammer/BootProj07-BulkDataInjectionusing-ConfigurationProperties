@@ -1,4 +1,4 @@
-package com.nt.sbeans;
+package com.core.sbeans;
 
 import lombok.Getter;
 import lombok.Setter;
